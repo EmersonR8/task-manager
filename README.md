@@ -6,7 +6,8 @@ Para levantar el proyecto en local es necesario tener instalado:
 
 - **WAMP 3.3.5**  
 - **Composer** de forma global (preferiblemente)  
-- **Node.js** (última versión recomendada)  
+- **Node.js** (última versión recomendada)
+- **SQLyog** (configura una conexion con puertos y luego alimenta el .env de Laravel para que acceda con esos datos)   
 
 Pasos para ejecutar el proyecto:
 
