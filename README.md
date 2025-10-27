@@ -19,7 +19,7 @@ php artisan serve
 
 > OJO: Configurar en el archivo `.env` los puertos y los datos de conexión necesarios para que Laravel funcione correctamente.
 
-3. Una vez levantada la API, abrir la carpeta del frontend (`task-manager`) y ejecutar:  
+3. Una vez levantada la API, abrir la carpeta del frontend (`task-manager`) y ejecutar (correr las migraciones y los seeders para crear y poblar la base de datos):  
 
 ```bash
 npm install
