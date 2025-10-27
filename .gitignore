@@ -1,0 +1,4 @@
+/proyecto-api/vendor
+/proyecto-api/.env
+/task-manager/node_modules
+/task-manager/dist
